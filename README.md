@@ -1,2 +1,6 @@
-## This is just a demo project to test the git setup.
-## This is update 1 for testing add, commit and push.
+#Demo Project
+
+##This is an demo project with.
+##Below are the content details:
+
+### JS Training
